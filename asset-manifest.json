@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/trending-cloths/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/trending-cloths/static/js/main.a4730c4f.chunk.js",
+    "main.js.map": "/trending-cloths/static/js/main.a4730c4f.chunk.js.map",
+    "runtime-main.js": "/trending-cloths/static/js/runtime-main.e11d9a87.js",
+    "runtime-main.js.map": "/trending-cloths/static/js/runtime-main.e11d9a87.js.map",
+    "static/js/2.6f76203d.chunk.js": "/trending-cloths/static/js/2.6f76203d.chunk.js",
+    "static/js/2.6f76203d.chunk.js.map": "/trending-cloths/static/js/2.6f76203d.chunk.js.map",
+    "static/js/3.7eb14a4c.chunk.js": "/trending-cloths/static/js/3.7eb14a4c.chunk.js",
+    "static/js/3.7eb14a4c.chunk.js.map": "/trending-cloths/static/js/3.7eb14a4c.chunk.js.map",
+    "index.html": "/trending-cloths/index.html",
+    "service-worker.js": "/trending-cloths/service-worker.js",
+    "service-worker.js.map": "/trending-cloths/service-worker.js.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/trending-cloths/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.6f76203d.chunk.js.LICENSE.txt": "/trending-cloths/static/js/2.6f76203d.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/trending-cloths/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e11d9a87.js",
+    "static/js/2.6f76203d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a4730c4f.chunk.js"
+  ]
+}
