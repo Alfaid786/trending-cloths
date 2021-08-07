@@ -1,12 +1,15 @@
 import React, { Component } from 'react';
 
+import Directory from '../../compoment/directory/directory.component';
+
 import './homepage.styles.scss';
 
 class Homepage extends Component {
     render() {
         return (
             <div className='homepage'>
-                <div className="directory-menu">
+                <Directory />
+                {/* <div className="directory-menu">
                     <div className="menu-item">
                         <div className="content">
                             <h1 className="title">HATS</h1>
@@ -37,7 +40,7 @@ class Homepage extends Component {
                             <span className="subtitle">SHOP NOW</span>
                         </div>
                     </div>
-                </div>
+                </div> */}
             </div>
         );
     }
